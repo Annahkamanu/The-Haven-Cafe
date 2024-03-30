@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  line-height: 1;
+}
+
+.header {
+  background-image: url(/images/header.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 800px;
+}
+.pastries {
+  background-image: url(/images/pastriesheader.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 800px;
+}
+.desserts {
+  background-image: url(/images/dessertsheader.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 800px;
+}
+.toto {
+  background-image: url(/images/totoheader.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 800px;
+}
