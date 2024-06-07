@@ -36,3 +36,42 @@ h1 {
   color: white;
   height: 800px;
 }
+.about {
+  line-height: 3;
+  padding: 20px;
+}
+.about-img {
+  height: 400px;
+  width: 400px;
+}
+.grind {
+  margin-top: 100px;
+  height: 400px;
+  width: 1300px;
+}
+.grind-paragraph {
+  text-align: center;
+  font-size: larger;
+}
+.tag {
+  text-align: center;
+  font-size: large;
+}
+.haven-way {
+  border-radius: 50%;
+  height: 500px;
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.intro {
+  line-height: 3;
+}
+.chefkiss {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+}
