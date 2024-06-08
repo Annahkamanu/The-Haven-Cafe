@@ -75,3 +75,14 @@ h1 {
   width: 350px;
   height: 350px;
 }
+.text {
+  display: flex;
+  justify-content: space-around;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  height: 350px;
+  margin: 50px;
+}
